@@ -1,0 +1,11 @@
+.navbar-fixed-top {
+	border-width: 0px;
+}
+.headerOffset {
+	padding-top: 110px !important;
+}
+.breadcrumb {
+	border-left: 0px !important;
+	border-right: 0px !important;
+	border-radius: 0px;
+}

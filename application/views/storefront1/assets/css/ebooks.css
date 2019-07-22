@@ -1,0 +1,184 @@
+/* =============================================================== */
+/* WHITE
+/* =============================================================== */
+
+/* Background */
+.main-container-wrapper,
+.cart-actions a:hover,
+.navbar-tshop,
+.navbar-top
+	{background: #fff;}
+
+/* Font Color */
+/*
+::selection { color: #fff;}
+::-moz-selection { color: #fff;}
+::-webkit-selection { color: #fff;}
+*/
+.btn:focus,
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary,
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus,
+.navbar-nav > li.active > a,
+.navbar-nav > li:hover > a,
+.nav > li > a:hover,
+.cartMenu a.dropdown-toggle:hover,
+.searchInputBox .search-btn,
+.action-control a:hover,
+.action-control a.active,
+.newsLatterBox .btn:hover,
+.newsLatterBox .btn:focus
+	{ color: #fff; }
+
+/* =============================================================== */
+/* PRIMARY COLOR
+/* =============================================================== */
+
+/* Background */
+.btn-primary,
+.search-box:hover .form-control,
+.pager2 a.selected,
+.btn-site,
+.newsLatterBox .btn,
+.modal-header,
+.socialIcon a:hover,
+.cart-actions a,
+.cart-actions .wishlist,
+.orderStep li.active a,
+.orderStep li a i
+	{background-color: #2d3e50;}
+	
+/* Font color */
+a:hover,
+a:focus,
+.search-box:hover .btn-nobg,
+.cart-actions a:hover,
+.owl-theme .owl-controls .owl-buttons div,
+.item h4 a,
+.orderStep li.active a i,
+.footer a:hover
+	{color: #2d3e50;}
+.site-color,
+citecolor
+	{color: #2d3e50 !important;}
+
+/* Border color */
+.product:hover,
+.subCategoryList .thumbnail:hover,
+.pager2 a,
+.form-control:focus,
+.panel-default > .panel-heading,
+.cart-actions a,
+.cart-actions a:hover
+	{border-color: #2d3e50;}
+.sp-thumbs a:hover,
+.sp-thumbs a:active,
+.sp-current,
+.sp-current:visited
+	{border-color: #2d3e50 !important;}
+.orderStep li.active a:after
+	{border-top-color: #2d3e50 !important;}
+.orderStep li.active a:after
+	{border-color: rgba(136, 183, 213, 0);}
+	
+	
+/* =============================================================== */
+/* PRIMARY COLOR - LIGHTENED
+/* =============================================================== */
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary,
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus
+	{ background-color: #475f78 !important; border-color: #475f78;}
+	
+	
+/* =============================================================== */
+/* ACCENT COLOR
+/* =============================================================== */
+
+/* Background */
+/*
+::selection {background-color: #2ecc71;}
+::-moz-selection {background-color: #2ecc71;}
+::-webkit-selection {background-color: #2ecc71;}
+*/
+.search-full,
+.search-input,
+.nav > li.active,
+.nav > li > a:hover,
+.nav > li > a:focus,
+.nav > li:hover > a,
+.nav .open > a,
+.nav .open > a:hover,
+.nav .open > a:focus,
+.cartMenu:hover > a.dropdown-toggle,
+.action-control a:hover,
+.action-control a.active,
+.btn-discover:hover,
+.btn-site:hover,
+.newsLatterBox .btn:hover,
+.promo-1
+	{background-color: #7ABF49;}
+#pager2 span.cycle-pager-active
+	{background-color: #7ABF49 !important;}
+@media (max-width: 767px) {
+	.miniCartFooter {background-color:#7ABF49 !important;}
+}
+
+/* Font color */
+.search-close,
+.nav.tree > li.active,
+.nav.tree > li > a:hover,
+.nav.tree > li > a:focus,
+.nav.tree > li:hover > a,
+.nav.tree .open-tree > a,
+.nav.tree .open-tree > a:hover,
+.nav.tree .open-tree > a:focus
+	{color: #7ABF49;}
+
+/* Border color */
+.dropdown-menu {border-top: solid #7ABF49;}
+.cart-actions .wishlist,
+#pager2 span
+	{border-color: #7ABF49;}
+	
+/* =============================================================== */
+/* GRAYISH
+/* =============================================================== */
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus,
+.nav-tabs > li:hover > a
+	{background: #BFC9CA;}
+.nav-tabs {border-bottom: 3px solid #BFC9CA;}
+
+.mCS-dark-2 > .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {background: rgba(149, 165, 166,0.7) !important;}
+.new-product {background: rgba(149, 165, 166, 0.95) !important;}
+#pager a.cycle-pager-active {background: rgba(149, 165, 166, 0.5);}
+
+.error {background-color: #ff5959; color: #fff;}
+.error a {color: #fff;}
+.error.warning {background-color: #F1C40F; color: #fff;}
+.error.success {background-color: #27AE60; color: #fff;}
+
+.image {
+	height: 250px;
+}
