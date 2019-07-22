@@ -1,7 +1,6 @@
-###################
+*******************
 Giftogram Redemption site www.giftogram.com/redeem
-###################
-
+*******************
 
 This CI application implements the redemption site at www.giftogram.com/redeem.
 
